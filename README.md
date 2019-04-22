@@ -1,12 +1,12 @@
 # 中山大学志愿填报辅助系统
 
-#( A Guide To College Application of Sun Yet-sen University )
+
 
 ## 一、项目名称
 
-    [中山大学志愿填报辅助系统](http://ecw.sysu.edu.cn:8000/files/team/BK50UKN9.docx)
+   ### [中山大学志愿填报辅助系统](http://ecw.sysu.edu.cn:8000/files/team/BK50UKN9.docx)
   
-    英文名：A Guide System To College Application of Sun Yet-sen University
+   英文名：A Guide System To College Application of Sun Yet-sen University
 
 ## 二、项目意义
 	
@@ -18,9 +18,9 @@
 
 ## 三、项目设计
 
-1、较为精美的程序界面。应用主要有6大功能：专业信息查询、专业录取情况查询、中大纪录片、中大新闻咨询、中大校区特色、中大招生政策，
+1、较为精美的程序界面。应用主要有6大功能：专业信息查询、专业录取情况查询、中大纪录片、中大新闻咨询、中大校区特色、中大招生政策，用户可以从主页面跳转
 
-用户可以从主页面跳转到想要了解的部分。
+到想要了解的部分。
 
 2、专信息查询以及志愿推荐功能。用户可以随意查询专业的各种信息，从而找到自己心仪的专业，志愿推荐是程序的核心功能，通过用户的省排位以及省份和兴趣等信
 
