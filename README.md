@@ -1,10 +1,12 @@
-# 中山大学志愿填报辅助系统 ( A Guide To College Application of Sun Yet-sen University )
+# 中山大学志愿填报辅助系统
+
+#( A Guide To College Application of Sun Yet-sen University )
 
 ## 一、项目名称
 
-	[中山大学志愿填报辅助系统] (http://ecw.sysu.edu.cn:8000/files/team/BK50UKN9.docx)
+    [中山大学志愿填报辅助系统](http://ecw.sysu.edu.cn:8000/files/team/BK50UKN9.docx)
   
-	英文名：A Guide System To College Application of Sun Yet-sen University
+    英文名：A Guide System To College Application of Sun Yet-sen University
 
 ## 二、项目意义
 	
@@ -34,11 +36,11 @@
 
 ## 五、项目开发工具
 
-  1、[QT] （https://www.qt.io/）；
+  1、[QT](https://www.qt.io/)；
 
-  2、[SQL] （https://www.microsoft.com/zh-cn/sql-server/sql-server-downloads）
+  2、[SQL](https://www.microsoft.com/zh-cn/sql-server/sql-server-downloads);
 	
-  3、C++
+  3、C++。
 
 ## 六、项目更新日志
 
